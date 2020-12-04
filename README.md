@@ -1,2 +1,0 @@
-"# proholidays First Project" 
-"# proholidays" 
